@@ -11,10 +11,10 @@ nstacart is an online grocery store that operates through an app. Instacart alre
 
 The dataset comprises information on the following parameters:
 
-customers,
+customers
 
-orders,
+orders
 
-products,
+products
 
-departments,
+departments
